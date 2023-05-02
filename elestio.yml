@@ -67,3 +67,4 @@ webUI:
     label: "Peertube Admin"
     login: "root"
     password: "[ADMIN_PASSWORD]"
+    
